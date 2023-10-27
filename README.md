@@ -19,7 +19,7 @@ A simple and efficient Todo application to help you organize and manage your tas
 
 ## Demo
 
-You can check out a live demo of the Todo app [here](https://react-todo-app-lovat-eight.vercel.app).
+You can check out a live demo of the Todo app <a href="https://react-todo-app-lovat-eight.vercel.app/">Click here</a>
 
 ## Installation
 
